@@ -17,21 +17,24 @@
 
                 <div class="cont">
                     <label for="email">Seu Email</label>
-                    <input type="text" name="email" id="email">
+                    <input type="text" name="email" id="email" required autocomplete="email" placeholder="ex:vinicius@gmail.com">
                 </div>
                 <div class="cont">
                     <label for="senha">Sua senha</label>
-                    <input type="password" name="senha" id="senha">
+                    <input type="password" name="senha" id="senha" required autocomplete="new-password" placeholder="ex:12345678">
 
                 </div>
-                <div >
+                <div id="check">
                     <input type="checkbox" name="log" id="log">Manter-me logado
                 </div>
                  <input type="submit" value="Logar">
 
-                 <div>
-                 <input type="button" value="Cadastre-se">
-                 </div>
+                
+                <di class="cadastro">
+                    Ainda não tem uma conta?
+                    <a href="#">Cadastre-se</a>
+                </div>
+                 
             
         </form>
         </section>
