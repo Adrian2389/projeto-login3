@@ -145,16 +145,27 @@ div [type="submit"] {
  section#login {
     width: 100%;
     min-width: 95vh;
-    min-height: 100vh;
-    flex-direction: column;
+    min-height: 80vh;
+   
+    
     
 
+ }
+ div#form {
+    width: 500px;
+    display: block;
+    
  }
  form {
     width: 100%;
     
  }
  body {
+    width: 100%;
+
+    
+ }
+ .cont input {
     width: 100%;
  }
 }
