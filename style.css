@@ -88,7 +88,7 @@ div [type="submit"] {
     background-color: lightseagreen;
     width: 100%;
     position: relative;
-    top: 40px;
+    top: 10px;
     height: 50px;
     display: flex;
     align-items: center;
@@ -152,7 +152,7 @@ div#check {
     
 @media screen and (max-width: 650px) {
  section#login {
-    width: 95%;
+    width: 80v;
     height: 90vh;
  }
  section h1 {
