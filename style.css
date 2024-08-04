@@ -99,13 +99,18 @@ div [type="submit"] {
     
 
 }
-#check {
+div#check {
     position: absolute;
-    top: 58%;
-   
-
-
+    
+    margin-right: 80px;
+    
 }
+#check > label {
+    position: relative;
+    left: 75px;
+    bottom: 19px;
+}
+
 .cadastro {
     position: absolute;
     height: 90px;
