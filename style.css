@@ -50,11 +50,11 @@ section#login {
 }
 section h1 {
     position: absolute;
-    top: 0%;
+    top: 10%;
     left: 50%;
     transform: translateX(-50%);
     font-weight: bold; 
-    font-size: 4vw;
+    font-size: 5vw;
     color: rgb(11, 90, 86);
     border-radius: 4px;
     transition: all 0.2s linear;
@@ -71,7 +71,7 @@ section h1 {
     line-height: 30px;
     text-align: left;
     text-shadow: 10px;
-    width: 400px;
+    width: 100%;
 }
 .cont input {
     width: 100%;
