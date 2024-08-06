@@ -69,7 +69,7 @@ form input[type="submit"] {
 }
 
 form input[type="submit"]:hover {
-    background-color: rgb(46, 235, 225);
+    background-color: lightseagreen;
 }
 
 #login {
