@@ -80,8 +80,9 @@ section h1 {
     width: 100%;
     height: 40px;
     margin-bottom: 10px;
-    box-shadow: inset 1px 1px rgb(158, 156, 156);
+    
     border-radius: 5px;
+    border: 1px solid #858585;
    
                                 
     
@@ -91,6 +92,7 @@ div [type="submit"] {
     background-color: lightseagreen;
     width: 100%;
     position: relative;
+    border: none;
     top: 30px;
     height: 50px;
     display: flex;
