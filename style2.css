@@ -19,6 +19,7 @@ main {
     max-width: 500px;
     margin: 20px;
     border: 1px solid black;
+    box-shadow: 1px 1px rgb(102, 101, 101);
 }
 
 #cadastro {
