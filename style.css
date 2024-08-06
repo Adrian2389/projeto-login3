@@ -194,8 +194,8 @@ div#check {
 
 @media screen and (max-width: 650px) {
     section#login {
-        width: 90%;
-        height: 80vh;
+        width: 95%;
+        height: 70vh;
     }
     
 
@@ -214,27 +214,7 @@ div#check {
     .cont {
         width: 90%;
     }
-  
-        .cadastro {
-            font-size: 16px;
-            text-align: center;
-            padding: 10px;
-            background-color: #f0f0f0;
-            border: 1px solid #ddd;
-            border-radius: 5px;
-        }
-    
-        .cadastro a {
-            
-          
-            font-weight: bold;
-            color: #007BFF;
-            text-decoration: none;
-        }
-    
-        .cadastro a:hover {
-            color: #0056b3;
-        }
+ 
     }
     
 
