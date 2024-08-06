@@ -18,7 +18,7 @@ body {
 main {
     max-width: 900px;
     margin: 20px;
-    width: 90%;
+    width: 100%;
     text-align: center;
     position: relative;
 }
@@ -218,9 +218,15 @@ div#check {
     }
 
     .cadastro {
-        position: absolute;
+      
+            position: absolute;
+            font-size: 0.875rem;
+            width: 100%;
+            max-width: 650px;
+            margin: 0 auto;
+            left: 0;
+            right: 0;
         
-        font-size: 0.875rem;
     }
 
 
