@@ -104,9 +104,8 @@ div [type="submit"] {
     width: 92%;
     position: relative;
     border: none;
-    top: 50px;
+    top: 30px;
     height: 50px;
-    left: 10px;
     display: flex;
     align-items: center;
     justify-content: center;
@@ -207,14 +206,10 @@ div#check {
     }
 
 
-    div [type="submit"] {
-        width: 90%;
-        position: relative;
-        left: 10px;
-        }
+
 
     .cont {
-        width: 80%;
+        width: 90%;
     }
 
     .cadastro {
