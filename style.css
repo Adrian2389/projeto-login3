@@ -163,7 +163,7 @@ div#check {
 .cadastro a {
     font-weight: bolder;
     padding: 6px;
-    font-size: 0.7rem;
+    font-size: 0.8rem;
 
     border: 1px solid rgb(0, 4, 255);
     border-radius: 4px;
@@ -208,33 +208,33 @@ div#check {
         display: block;
     }
 
-    form {
-        width: 100%;
-    }
-
-    body {
-        min-height: 100vh;
-        width: 100%;
-    }
-
-
+  
 
 
     .cont {
         width: 90%;
     }
-
-    .cadastro {
-      
-            position: absolute;
-            font-size: 0.875rem;
-            width: 100%;
-            max-width: 650px;
-            margin: 0 auto;
-            left: 0;
-            right: 0;
-        
+  
+        .cadastro {
+            font-size: 16px;
+            text-align: center;
+            padding: 10px;
+            background-color: #f0f0f0;
+            border: 1px solid #ddd;
+            border-radius: 5px;
+        }
+    
+        .cadastro a {
+            
+          
+            font-weight: bold;
+            color: #007BFF;
+            text-decoration: none;
+        }
+    
+        .cadastro a:hover {
+            color: #0056b3;
+        }
     }
+    
 
-
-}
