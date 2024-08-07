@@ -43,6 +43,7 @@ section#login {
     display: flex;
     justify-content: center;
     align-items: center;
+    box-shadow: 1px 1px black;
 
 
 
@@ -149,9 +150,9 @@ div#check {
     padding: 20px;
     font-size: 1rem;
     text-align: right;
-    border-top: 1px solid lightblue;
+    
     -webkit-border-radius: 1px;
-    background-color: rgb(197, 221, 230);
+   
     
     
    
